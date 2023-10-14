@@ -1,0 +1,43 @@
+/* Style for the entire container */
+div {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  /* Style for the h2 heading */
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the label and input field */
+  label {
+    font-size: 16px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+  }
+  
+  /* Style for the button */
+  button {
+    background-color: #0074d9;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Style for the age paragraph */
+  p {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
